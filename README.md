@@ -20,12 +20,27 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 
 ## Working with
 
-<p>
-  <img src="https://img.shields.io/badge/Java-272727?style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-272727?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MyBatis-272727?style=flat-square" alt="MyBatis" />
-  <img src="https://img.shields.io/badge/Maven-272727?style=flat-square&logo=apachemaven&logoColor=E76F8A" alt="Maven" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/JAVA-202020?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&logo=html5&logoColor=E77860" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css&logoColor=8B9DE8" alt="CSS" />
+  <br />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-202020?style=for-the-badge&logo=springboot&logoColor=81B86B" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MYBATIS-202020?style=for-the-badge" alt="MyBatis" />
+  <img src="https://img.shields.io/badge/MAVEN-202020?style=for-the-badge&logo=apachemaven&logoColor=E76F8A" alt="Maven" />
+  <br />
+  <img src="https://img.shields.io/badge/GIT-202020?style=for-the-badge&logo=git&logoColor=E77860" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-202020?style=for-the-badge&logo=github&logoColor=D4D4D4" alt="GitHub" />
+</div>
+
+<br />
+
+## GitHub overview
+
+<div align="center">
+  <img src="./assets/github-overview.svg" width="100%" alt="GitHub 통계: 공개 저장소 5개, 팔로워 7명. 언어 비중 Java 97.1%, HTML 2.2%, CSS 0.6%. 2026년 10월 1일 기준." />
+  <sub>2026.10.01 기준 · 공개 저장소의 코드 용량 기준이며, 숙련도를 뜻하지 않습니다.</sub>
+</div>
 
 ## Projects & learning
 
@@ -41,6 +56,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 <div align="center">
   <sub>배운 것을 코드로 남기고, 작은 구현을 차곡차곡 쌓아갑니다.</sub>
 </div>
+
 
 
 
