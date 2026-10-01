@@ -55,9 +55,20 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 
 <br />
 
+## Contribution flow
+
+<div align="center">
+  <img src="./assets/contribution-snake.svg" width="100%" alt="GitHub 기여도에 따라 움직이는 민트색 스네이크" />
+  <br />
+  <sub>Small steps, steady progress.</sub>
+</div>
+
+<br />
+
 <div align="center">
   <sub>배운 것을 코드로 남기고, 작은 구현을 차곡차곡 쌓아갑니다.</sub>
 </div>
+
 
 
 
