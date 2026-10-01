@@ -4,6 +4,8 @@
   ### 안녕하세요, 김동우입니다
   Java와 Spring으로 배우고 만드는 과정을 기록합니다.
 
+  <img src="./assets/typing.svg" width="660" alt="Learning Java. Building with Spring. 타이핑 애니메이션" />
+
   <a href="https://github.com/woodong22?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-181818?style=for-the-badge&logo=github&logoColor=white" alt="저장소 둘러보기" /></a>
 </div>
 
@@ -38,8 +40,8 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 ## GitHub overview
 
 <div align="center">
-  <img src="./assets/github-overview.svg" width="100%" alt="GitHub 통계: 공개 저장소 5개, 팔로워 7명. 언어 비중 Java 97.1%, HTML 2.2%, CSS 0.6%. 2026년 10월 1일 기준." />
-  <sub>2026.10.01 기준 · 공개 저장소의 코드 용량 기준이며, 숙련도를 뜻하지 않습니다.</sub>
+  <img src="./assets/github-overview.svg" width="100%" alt="자동 갱신되는 GitHub 공개 프로필 통계와 사용 언어 카드" />
+  <sub>매일 자동 갱신 · 직접 만든 공개 저장소의 코드 용량 기준</sub>
 </div>
 
 ## Projects & learning
@@ -56,6 +58,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 <div align="center">
   <sub>배운 것을 코드로 남기고, 작은 구현을 차곡차곡 쌓아갑니다.</sub>
 </div>
+
 
 
 
