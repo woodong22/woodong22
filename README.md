@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/banner-dark.svg" width="100%" alt="Hi, I'm Dongwoo. Learning Java. Building with Spring." />
+  <img src="./assets/banner-black.svg" width="100%" alt="Hi, I'm Dongwoo. Learning Java. Building with Spring." />
 
   ### 안녕하세요, 김동우입니다
   Java와 Spring으로 배우고 만드는 과정을 기록합니다.
 
-  <a href="https://github.com/woodong22?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="저장소 둘러보기" /></a>
+  <a href="https://github.com/woodong22?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-181818?style=for-the-badge&logo=github&logoColor=white" alt="저장소 둘러보기" /></a>
 </div>
 
 <br />
@@ -21,10 +21,10 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 ## Working with
 
 <p>
-  <img src="https://img.shields.io/badge/Java-59636E?style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-424E5B?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MyBatis-334155?style=flat-square" alt="MyBatis" />
-  <img src="https://img.shields.io/badge/Maven-78838E?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Java-272727?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-272727?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MyBatis-272727?style=flat-square" alt="MyBatis" />
+  <img src="https://img.shields.io/badge/Maven-272727?style=flat-square&logo=apachemaven&logoColor=E76F8A" alt="Maven" />
 </p>
 
 ## Projects & learning
@@ -41,5 +41,6 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 <div align="center">
   <sub>배운 것을 코드로 남기고, 작은 구현을 차곡차곡 쌓아갑니다.</sub>
 </div>
+
 
 
