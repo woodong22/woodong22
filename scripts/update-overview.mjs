@@ -22,7 +22,7 @@ for (const repo of repos.filter(repo => !repo.fork && repo.name !== owner)) {
 let entries = Object.entries(languages).sort((a, b) => b[1] - a[1]);
 if (entries.length > 3) entries = [...entries.slice(0, 2), ['Other', entries.slice(2).reduce((sum, [, bytes]) => sum + bytes, 0)]];
 const total = entries.reduce((sum, [, bytes]) => sum + bytes, 0);
-const colors = ['#e9a75b', '#e67462', '#8b9de8'];
+const colors = ['#8cb9d5', '#a6cdbd', '#b4b8de'];
 const escape = text => String(text).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
 let svg = await readFile(new URL('./overview-template.svg', import.meta.url), 'utf8');
 svg = svg.replace(/(<text x="280" y="118"[^>]*>).*?(<\/text>)/, `$1${user.public_repos}$2`);
@@ -39,8 +39,9 @@ const bars = entries.map(([, bytes], index) => {
 svg = svg.replace(/<g clip-path="url\(#bar\)">.*?<\/g>/, `<g clip-path="url(#bar)">${bars}</g>`);
 const rows = entries.map(([language, bytes], index) => {
   const y = 130 + index * 32;
-  return `<circle cx="489" cy="${y - 4}" r="4" fill="${colors[index]}"/><text x="502" y="${y}" font-size="13" fill="#d4d4d4">${escape(language)}</text><text x="817" y="${y}" font-size="13" fill="#a3a3a3">${(bytes / total * 100).toFixed(1)}%</text>`;
+  return `<circle cx="489" cy="${y - 4}" r="4" fill="${colors[index]}"/><text x="502" y="${y}" font-size="13" fill="#526f86">${escape(language)}</text><text x="817" y="${y}" font-size="13" fill="#7290a6">${(bytes / total * 100).toFixed(1)}%</text>`;
 }).join('\n');
 svg = svg.replace(/<circle cx="489"[\s\S]*?(?=<text x="483" y="220")/, rows + '\n');
 await writeFile(new URL('../assets/github-overview.svg', import.meta.url), svg);
 console.log('Updated public profile overview.');
+

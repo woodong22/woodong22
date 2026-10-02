@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./assets/banner-sky.svg" width="100%" alt="Hi, I'm Dongwoo. Learning Java. Building with Spring." />
+  <img src="./assets/banner-airy.svg" width="100%" alt="Hi, I'm Dongwoo. Learning Java. Building with Spring." />
 
   ### 안녕하세요, 김동우입니다
   Java와 Spring으로 배우고 만드는 과정을 기록합니다.
 
-  <img src="./assets/typing.svg" width="660" alt="Learning Java. Building with Spring. 타이핑 애니메이션" />
+  <img src="./assets/typing-airy.svg" width="660" alt="Learning Java. Building with Spring. 타이핑 애니메이션" />
 
-  <a href="https://github.com/woodong22?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-181818?style=for-the-badge&logo=github&logoColor=white" alt="저장소 둘러보기" /></a>
+  <a href="https://github.com/woodong22?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-B0D1E6?style=for-the-badge&logo=github&logoColor=496D88" alt="저장소 둘러보기" /></a>
 </div>
 
 <br />
@@ -23,16 +23,16 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 ## Working with
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-202020?style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&logo=html5&logoColor=E77860" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-202020?style=for-the-badge&logo=css&logoColor=8B9DE8" alt="CSS" />
+  <img src="https://img.shields.io/badge/JAVA-EDF5FB?style=for-the-badge&labelColor=EDF5FB&color=EDF5FB" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-EDF5FB?style=for-the-badge&labelColor=EDF5FB&color=EDF5FB&logo=html5&logoColor=E77860" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-EDF5FB?style=for-the-badge&labelColor=EDF5FB&color=EDF5FB&logo=css&logoColor=8B9DE8" alt="CSS" />
   <br />
-  <img src="https://img.shields.io/badge/SPRING_BOOT-202020?style=for-the-badge&logo=springboot&logoColor=81B86B" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MYBATIS-202020?style=for-the-badge" alt="MyBatis" />
-  <img src="https://img.shields.io/badge/MAVEN-202020?style=for-the-badge&logo=apachemaven&logoColor=E76F8A" alt="Maven" />
+  <img src="https://img.shields.io/badge/SPRING_BOOT-EDF5FB?style=for-the-badge&labelColor=EDF5FB&color=EDF5FB&logo=springboot&logoColor=81B86B" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MYBATIS-EDF5FB?style=for-the-badge&labelColor=EDF5FB&color=EDF5FB" alt="MyBatis" />
+  <img src="https://img.shields.io/badge/MAVEN-EDF5FB?style=for-the-badge&labelColor=EDF5FB&color=EDF5FB&logo=apachemaven&logoColor=E76F8A" alt="Maven" />
   <br />
-  <img src="https://img.shields.io/badge/GIT-202020?style=for-the-badge&logo=git&logoColor=E77860" alt="Git" />
-  <img src="https://img.shields.io/badge/GITHUB-202020?style=for-the-badge&logo=github&logoColor=D4D4D4" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GIT-EDF5FB?style=for-the-badge&labelColor=EDF5FB&color=EDF5FB&logo=git&logoColor=E77860" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-EDF5FB?style=for-the-badge&labelColor=EDF5FB&color=EDF5FB&logo=github&logoColor=66849B" alt="GitHub" />
 </div>
 
 <br />
@@ -58,7 +58,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 ## Contribution flow
 
 <div align="center">
-  <img src="./assets/contribution-snake.svg" width="100%" alt="GitHub 기여도에 따라 움직이는 민트색 스네이크" />
+  <img src="./assets/contribution-snake.svg" width="100%" alt="GitHub 기여도에 따라 움직이는 하늘색 스네이크" />
   <br />
   <sub>Small steps, steady progress.</sub>
 </div>
@@ -68,6 +68,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 <div align="center">
   <sub>배운 것을 코드로 남기고, 작은 구현을 차곡차곡 쌓아갑니다.</sub>
 </div>
+
 
 
 

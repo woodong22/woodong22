@@ -25,7 +25,7 @@ jobs:
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: assets/contribution-snake.svg?color_snake=#8bbfae&color_dots=#181818,#303735,#465750,#658275,#8bbfae
+          outputs: assets/contribution-snake.svg?color_snake=#7caccb&color_dots=#edf5fb,#dcebf5,#c5deee,#a6cbe1,#7caccb
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Save visuals
@@ -37,3 +37,4 @@ jobs:
             git commit -m 'Refresh profile visuals'
             git push
           fi
+

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="68" viewBox="0 0 660 68">
+<defs><clipPath id="typing"><rect x="64" y="12" width="0" height="44"><animate attributeName="width" values="0;390;390;0;0" keyTimes="0;.4;.78;.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath></defs>
+<rect width="660" height="68" rx="10" fill="#f0f7fc"/>
+<text x="28" y="41" font-family="monospace" font-size="19" fill="#7aaccb">&gt;</text>
+<g clip-path="url(#typing)"><text x="64" y="41" font-family="monospace" font-size="18" fill="#66849b">Learning Java. Building with Spring.</text></g>
+<rect x="64" y="24" width="2" height="22" fill="#7aaccb"><animate attributeName="x" values="64;454;454;64;64" keyTimes="0;.4;.78;.94;1" dur="14s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>
+
+
