@@ -55,12 +55,12 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 
 <br />
 
-## Contribution flow
+## Contribution garden
 
 <div align="center">
-  <img src="./assets/contribution-snake-airy.svg" width="100%" alt="GitHub 기여도에 따라 움직이는 하늘색 스네이크" />
+  <img src="./assets/contribution-garden.svg" width="100%" alt="실제 GitHub 기여도와 고양이 애니메이션이 있는 하늘색 잔디 정원" />
   <br />
-  <sub>Small steps, steady progress.</sub>
+  <sub>작은 발걸음으로, 매일 조금씩.</sub>
 </div>
 
 <br />
@@ -68,6 +68,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 <div align="center">
   <sub>배운 것을 코드로 남기고, 작은 구현을 차곡차곡 쌓아갑니다.</sub>
 </div>
+
 
 
 

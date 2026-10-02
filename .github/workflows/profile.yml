@@ -28,14 +28,17 @@ jobs:
           outputs: assets/contribution-snake-airy.svg?color_snake=#7caccb&color_dots=#edf5fb,#dcebf5,#c5deee,#a6cbe1,#7caccb
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Decorate contribution garden
+        run: node scripts/decorate-garden.mjs
       - name: Save visuals
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/github-overview-airy.svg assets/contribution-snake-airy.svg
+          git add assets/github-overview-airy.svg assets/contribution-snake-airy.svg assets/contribution-garden.svg
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh profile visuals'
             git push
           fi
+
 
 
