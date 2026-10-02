@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172f50"/><stop offset=".5" stop-color="#3e719d"/><stop offset="1" stop-color="#85b4d0"/></linearGradient>
+<linearGradient id="haze" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#eff8ff" stop-opacity=".19"/><stop offset="1" stop-color="#eff8ff" stop-opacity="0"/></linearGradient>
+<clipPath id="frame"><rect width="1200" height="360" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="360" fill="url(#sky)"/>
+<path d="M-120 155C60 55 160 55 310 105S590 150 760 57S1090 28 1340 112V-20H-120Z" fill="url(#haze)"/>
+<path d="M-100 297C85 226 184 250 358 288S685 332 865 267S1100 233 1300 270V390H-100Z" fill="#e7f4fc" opacity=".065"/>
+<path d="M-50 307C140 248 255 273 430 308S710 340 909 285S1110 261 1250 280" fill="none" stroke="#d8edfa" stroke-opacity=".14"/>
+<g text-anchor="middle" font-family="Arial,Helvetica,sans-serif">
+<text x="600" y="75" font-size="12" letter-spacing="4" fill="#d5e7f4">BUILD · LEARN · GROW</text>
+<text x="600" y="166" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#f5faff">Hi, I'm Dongwoo.</text>
+<text x="600" y="211" font-size="21" fill="#d8e8f4">Learning Java. Building with Spring.</text>
+<path d="M465 249H735" stroke="#dbedfa" stroke-opacity=".35"/>
+<text x="600" y="285" font-size="13" letter-spacing="3" fill="#e0edf7">JAVA / SPRING BOOT / MYBATIS</text>
+<text x="600" y="329" font-size="11" letter-spacing="2" fill="#c6ddeb">@woodong22</text>
+</g></g></svg>

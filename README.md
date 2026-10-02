@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-black.svg" width="100%" alt="Hi, I'm Dongwoo. Learning Java. Building with Spring." />
+  <img src="./assets/banner-sky.svg" width="100%" alt="Hi, I'm Dongwoo. Learning Java. Building with Spring." />
 
   ### 안녕하세요, 김동우입니다
   Java와 Spring으로 배우고 만드는 과정을 기록합니다.
@@ -68,6 +68,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 <div align="center">
   <sub>배운 것을 코드로 남기고, 작은 구현을 차곡차곡 쌓아갑니다.</sub>
 </div>
+
 
 
 
