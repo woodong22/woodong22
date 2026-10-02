@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d5ecfa"/><stop offset=".65" stop-color="#e8f5fc"/><stop offset="1" stop-color="#f8fcff"/></linearGradient>
+<radialGradient id="sun"><stop stop-color="#ffffff" stop-opacity=".85"/><stop offset=".35" stop-color="#fffef7" stop-opacity=".5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+<linearGradient id="cloud" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#fff" stop-opacity=".15"/></linearGradient>
+<clipPath id="frame"><rect width="1200" height="340" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="340" fill="url(#sky)"/>
+<circle cx="840" cy="95" r="170" fill="url(#sun)"><animate attributeName="opacity" values=".7;1;.7" dur="14s" repeatCount="indefinite"/></circle>
+<g fill="url(#cloud)">
+<path d="M-210 175Q-170 133-115 159Q-88 89-21 125Q20 89 64 146Q121 131 153 175Z"><animateTransform attributeName="transform" type="translate" values="0 0;1470 0" dur="110s" repeatCount="indefinite"/></path>
+<path d="M-400 237Q-350 183-296 211Q-263 156-202 191Q-151 150-103 206Q-51 192-13 237Z"><animateTransform attributeName="transform" type="translate" values="530 0;1730 0" dur="130s" repeatCount="indefinite"/></path>
+<path d="M-260 107Q-227 76-191 89Q-166 48-124 73Q-87 52-57 90Q-24 83 3 107Z"><animateTransform attributeName="transform" type="translate" values="1070 0;1470 0;1070 0" dur="95s" repeatCount="indefinite"/></path>
+</g>
+<path d="M0 284Q230 240 470 284T960 282T1400 284V340H0Z" fill="#fff" opacity=".28"><animate attributeName="d" values="M0 284Q230 240 470 284T960 282T1400 284V340H0Z;M0 292Q230 280 470 264T960 294T1400 284V340H0Z;M0 284Q230 240 470 284T960 282T1400 284V340H0Z" dur="24s" repeatCount="indefinite"/></path>
+<g fill="#ffffff">
+<circle cx="310" cy="93" r="2"><animate attributeName="opacity" values=".1;.8;.1" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="682" cy="183" r="2.5"><animate attributeName="opacity" values=".7;.1;.7" dur="9s" repeatCount="indefinite"/><animate attributeName="cy" values="183;170;183" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="1020" cy="216" r="2"><animate attributeName="opacity" values=".1;.6;.1" dur="11s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(587 154)" fill="none" stroke="#9bbdd3" stroke-width="1.5" stroke-linecap="round" opacity=".5">
+<path d="M-18 3Q-9-4 0 3Q9-4 18 3"><animateTransform attributeName="transform" type="translate" values="-60 7;60 -7;-60 7" dur="35s" repeatCount="indefinite"/></path>
+</g>
+</g></svg>

@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="./assets/banner-airy.svg" width="100%" alt="Hi, I'm Dongwoo. Learning Java. Building with Spring." />
+  <img src="./assets/banner-clouds.svg" width="100%" alt="천천히 흐르는 구름과 빛의 하늘 배너" />
 
-  ### 안녕하세요, 김동우입니다
-  Java와 Spring으로 배우고 만드는 과정을 기록합니다.
-
-  <img src="./assets/typing-airy.svg" width="660" alt="Learning Java. Building with Spring. 타이핑 애니메이션" />
 
   <a href="https://github.com/woodong22?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-B0D1E6?style=for-the-badge&logo=github&logoColor=496D88" alt="저장소 둘러보기" /></a>
 </div>
@@ -68,6 +64,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 <div align="center">
   <sub>배운 것을 코드로 남기고, 작은 구현을 차곡차곡 쌓아갑니다.</sub>
 </div>
+
 
 
 
