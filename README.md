@@ -40,7 +40,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 ## GitHub overview
 
 <div align="center">
-  <img src="./assets/github-overview.svg" width="100%" alt="자동 갱신되는 GitHub 공개 프로필 통계와 사용 언어 카드" />
+  <img src="./assets/github-overview-airy.svg" width="100%" alt="자동 갱신되는 GitHub 공개 프로필 통계와 사용 언어 카드" />
   <sub>매일 자동 갱신 · 직접 만든 공개 저장소의 코드 용량 기준</sub>
 </div>
 
@@ -58,7 +58,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 ## Contribution flow
 
 <div align="center">
-  <img src="./assets/contribution-snake.svg" width="100%" alt="GitHub 기여도에 따라 움직이는 하늘색 스네이크" />
+  <img src="./assets/contribution-snake-airy.svg" width="100%" alt="GitHub 기여도에 따라 움직이는 하늘색 스네이크" />
   <br />
   <sub>Small steps, steady progress.</sub>
 </div>
@@ -68,6 +68,7 @@ Java 기초부터 알고리즘 문제 풀이, Spring 기반 웹 애플리케이�
 <div align="center">
   <sub>배운 것을 코드로 남기고, 작은 구현을 차곡차곡 쌓아갑니다.</sub>
 </div>
+
 
 
 

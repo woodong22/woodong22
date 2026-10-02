@@ -42,6 +42,7 @@ const rows = entries.map(([language, bytes], index) => {
   return `<circle cx="489" cy="${y - 4}" r="4" fill="${colors[index]}"/><text x="502" y="${y}" font-size="13" fill="#526f86">${escape(language)}</text><text x="817" y="${y}" font-size="13" fill="#7290a6">${(bytes / total * 100).toFixed(1)}%</text>`;
 }).join('\n');
 svg = svg.replace(/<circle cx="489"[\s\S]*?(?=<text x="483" y="220")/, rows + '\n');
-await writeFile(new URL('../assets/github-overview.svg', import.meta.url), svg);
+await writeFile(new URL('../assets/github-overview-airy.svg', import.meta.url), svg);
 console.log('Updated public profile overview.');
+
 

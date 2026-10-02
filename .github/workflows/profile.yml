@@ -25,16 +25,17 @@ jobs:
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: assets/contribution-snake.svg?color_snake=#7caccb&color_dots=#edf5fb,#dcebf5,#c5deee,#a6cbe1,#7caccb
+          outputs: assets/contribution-snake-airy.svg?color_snake=#7caccb&color_dots=#edf5fb,#dcebf5,#c5deee,#a6cbe1,#7caccb
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Save visuals
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/github-overview.svg assets/contribution-snake.svg
+          git add assets/github-overview-airy.svg assets/contribution-snake-airy.svg
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh profile visuals'
             git push
           fi
+
 
